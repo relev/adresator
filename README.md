@@ -1,4 +1,4 @@
 adresator
 =========
 
-a better way to input address
+a better way to input address.
